@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    text-shadow: 1px 1px rgb(24, 23, 23);
+    box-shadow: 2px black;
+    width: 80px;
+    cursor: pointer;
+}
+
+.cronometro {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 80px;
+    height: 20px;
+    border: 10px dashed black;
+    border-width: medium;
+
+}
